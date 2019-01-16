@@ -1,0 +1,28 @@
+{
+  "name": "node-passport-login-temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeeraka/node-passport-login-temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeeraka/node-passport-login-temp/issues"
+  },
+  "homepage": "https://github.com/nadeeraka/node-passport-login-temp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
